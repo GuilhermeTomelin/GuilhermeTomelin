@@ -51,6 +51,13 @@ Modelagem e desenvolvimento de banco de dados para gerenciar o ciclo de vida com
   <img alt="github snake animation" src="https://raw.githubusercontent.com/GuilhermeTomelin/GuilhermeTomelin/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+<!-- Ícones Animados de Tecnologias -->
+  <img src="https://skillicons.dev/icons?i=python,mysql,docker,git,github,vscode" />
+
+  <br/>
+
+</div>
 ---
 
 <div align="center">
