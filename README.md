@@ -45,11 +45,11 @@ Modelagem e desenvolvimento de banco de dados para gerenciar o ciclo de vida com
 ---
 
 ## 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeTomelin&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTomelin&layout=compact&theme=nord"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeTomelin/GuilhermeTomelin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeTomelin/GuilhermeTomelin/output/github-contribution-grid-snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/GuilhermeTomelin/GuilhermeTomelin/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
