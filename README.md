@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=180&section=header&text=DEATH%20NOTE&fontSize=50&fontColor=8B0000" width="100%" alt="Header Banner"/>
-
 # 𝕲𝖚𝖎𝖑𝖍𝖊𝖗𝖒𝖊 𝕬𝖚𝖌𝖚𝖘𝖙𝖔 𝓣𝖔𝖒𝖊𝖑𝖎𝖓 𝖂𝖆𝖗𝖒𝖑𝖎𝖓𝖌
 
 **Aprendiz em Automação e Cibersistemas na WEG**  
@@ -39,7 +36,7 @@
 
 ---
 
-## 𝕻𝖗𝖔𝖄𝖊𝖙𝖔 𝖊𝖒 𝕯𝖊𝖘𝖙𝖆 brew
+## 𝕻𝖗𝖔𝖄𝖊𝖙𝖔 𝖊𝖒 𝕯𝖊𝖘𝖙𝖆q𝖚𝖊
 
 ### Sistema de Gestão e ROI de Viagens Corporativas (WEG)
 Modelagem e desenvolvimento de banco de dados para gerenciar o ciclo de vida completo de viagens corporativas na WEG, integrando eficiência operacional e controle financeiro.
