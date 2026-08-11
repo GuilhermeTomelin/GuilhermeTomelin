@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝕲𝖚𝖎𝖑𝖍𝖊𝖗𝖒𝖊 𝕬𝖚𝖌𝖚𝖘𝖙𝖔 𝕯𝖔𝖒𝖊𝖑𝖎𝖓 𝖂𝖆𝖗𝖒𝖑𝖎𝖓𝖌
+# 𝕲𝖚𝖎𝖑𝖍𝖊𝖗𝖒𝖊 𝕬𝖚𝖌𝖚𝖘𝖙𝖔 𝓣𝖔𝖒𝖊𝖑𝖎𝖓 𝖂𝖆𝖗𝖒𝖑𝖎𝖓𝖌
 
 **Aprendiz em Automação e Cibersistemas na WEG**  
 *Foco em Inteligência Artificial, Análise de Dados e Processos Corporativos*
