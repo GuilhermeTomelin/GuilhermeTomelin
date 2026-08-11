@@ -1,27 +1,28 @@
 <div align="center">
 
-# Guilherme Augusto Tomelin Warmling
+# 𝕲𝖚𝖎𝖑𝖍𝖊𝖗𝖒𝖊 𝕬𝖚𝖌𝖚𝖘𝖙𝖔 𝕯𝖔𝖒𝖊𝖑𝖎𝖓 𝖂𝖆𝖗𝖒𝖑𝖎𝖓𝖌
 
 **Aprendiz em Automação e Cibersistemas na WEG**  
 *Foco em Inteligência Artificial, Análise de Dados e Processos Corporativos*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-tomelin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guilherme.warmling9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-tomelin)
+[![Gmail](https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.warmling9@gmail.com)
+[![Kira](https://img.shields.io/badge/Status-I_Will_Become_Justice-0D0D0D?style=for-the-badge&logo=deathnote)](https://github.com/GuilhermeTomelin)
 
 ---
 
-> *"Preço é o que você paga. Valor é o que você entrega."* — Warren Buffett
+> *"Tudo está acontecendo exatamente de acordo com o plano."* 
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+##  Sobre Mim
 
 - 🎓 Cursando **Automação e Cibersistemas** pelo **CentroWEG** e atuando como Aprendiz na **WEG**.
-- 📜 Formado como **Assistente Administrativo pelo SENAI**, aplicando essa base de processos, finanças e logística no desenvolvimento de software.
-- 🤖 **Foco Técnico:** Estudo e desenvolvimento direcionado para **Inteligência Artificial (IA)** e análise de dados.
-- ⚙️ **Conhecimentos Complementares:** Hardware, cibersistemas, metodologias ágeis (Scrum/Kanban) e versionamento de código.
+-  Formado como **Assistente Administrativo pelo SENAI**, aplicando essa base de processos, finanças e logística no desenvolvimento de software.
+-  **Foco Técnico:** Estudo e desenvolvimento direcionado para **Inteligência Artificial (IA)** e análise de dados.
+-  **Conhecimentos Complementares:** Hardware, cibersistemas, metodologias ágeis (Scrum/Kanban) e versionamento de código.
 
 ---
 
@@ -57,7 +58,6 @@ Modelagem e desenvolvimento de banco de dados para gerenciar o ciclo de vida com
 
   <br/>
 
-</div>
 ---
 
 <div align="center">
