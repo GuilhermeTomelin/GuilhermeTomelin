@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=180&section=header&text=DEATH%20NOTE&fontSize=50&fontColor=8B0000" width="100%" alt="Header Banner"/>
+
 # 𝕲𝖚𝖎𝖑𝖍𝖊𝖗𝖒𝖊 𝕬𝖚𝖌𝖚𝖘𝖙𝖔 𝓣𝖔𝖒𝖊𝖑𝖎𝖓 𝖂𝖆𝖗𝖒𝖑𝖎𝖓𝖌
 
 **Aprendiz em Automação e Cibersistemas na WEG**  
@@ -11,40 +13,22 @@
 
 ---
 
-> *"Tudo está acontecendo exatamente de acordo com o plano."* 
+> *"Tudo está acontecendo exatamente de acordo com o plano."*
 
 </div>
 
 ---
 
-##  Sobre Mim
+## 𝕾𝖔𝖇𝖗𝖊 𝕸𝖎𝖒
 
-- 🎓 Cursando **Automação e Cibersistemas** pelo **CentroWEG** e atuando como Aprendiz na **WEG**.
--  Formado como **Assistente Administrativo pelo SENAI**, aplicando essa base de processos, finanças e logística no desenvolvimento de software.
--  **Foco Técnico:** Estudo e desenvolvimento direcionado para **Inteligência Artificial (IA)** e análise de dados.
--  **Conhecimentos Complementares:** Hardware, cibersistemas, metodologias ágeis (Scrum/Kanban) e versionamento de código.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-- **Linguagens & Dados:** Python, MySQL
-- **DevOps & Infraestrutura:** Docker (conceitos básicos)
-- **Versionamento & Workflow:** Git, GitHub, Metodologias Ágeis
+- Cursando **Automação e Cibersistemas** pelo **CentroWEG** e atuando como Aprendiz na **WEG**.
+- Formado como **Assistente Administrativo pelo SENAI**, aplicando essa base de processos, finanças e logística no desenvolvimento de software.
+- **Foco Técnico:** Estudo e desenvolvimento direcionado para **Inteligência Artificial (IA)** e análise de dados.
+- **Conhecimentos Complementares:** Hardware, cibersistemas, metodologias ágeis (Scrum/Kanban) e versionamento de código.
 
 ---
 
-## 📌 Projeto em Destaque
-
-### 📊 Sistema de Gestão e ROI de Viagens Corporativas (WEG)
-Modelagem e desenvolvimento de banco de dados para gerenciar o ciclo de vida completo de viagens corporativas na WEG, integrando eficiência operacional e controle financeiro.
-
-- **Logística:** Controle de viagens, frotas de veículos e destinos.
-- **Financeiro:** Gestão de orçamentos departamentais e despesas de viagem.
-- **Métrica de Negócio:** Cálculo de **Retorno sobre o Investimento (ROI)** a partir da avaliação de eficácia reportada pelos gestores.
-
-## 🛠️ 𝕿𝖊𝖈𝖓𝖔𝖑𝖔𝖌𝖎𝖆𝖘 & 𝕱𝖊𝖗𝖗𝖆𝖒𝖊𝖓𝖙𝖆𝖘
----
+## 𝕿𝖊𝖈𝖓𝖔𝖑𝖔𝖌𝖎𝖆𝖘 & 𝕱𝖊𝖗𝖗𝖆𝖒𝖊𝖓𝖙𝖆𝖘
 
 ![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=3776AB)
 ![MySQL](https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=4479A1)
@@ -55,21 +39,33 @@ Modelagem e desenvolvimento de banco de dados para gerenciar o ciclo de vida com
 
 ---
 
-## 📊 Estatísticas no GitHub
+## 𝕻𝖗𝖔𝖄𝖊𝖙𝖔 𝖊𝖒 𝕯𝖊𝖘𝖙𝖆 brew
+
+### Sistema de Gestão e ROI de Viagens Corporativas (WEG)
+Modelagem e desenvolvimento de banco de dados para gerenciar o ciclo de vida completo de viagens corporativas na WEG, integrando eficiência operacional e controle financeiro.
+
+- **Logística:** Controle de viagens, frotas de veículos e destinos.
+- **Financeiro:** Gestão de orçamentos departamentais e despesas de viagem.
+- **Métrica de Negócio:** Cálculo de **Retorno sobre o Investimento (ROI)** a partir da avaliação de eficácia reportada pelos gestores.
+
+---
+
+## 𝕰𝖘𝖙𝖆𝖙𝖎́𝖘𝖙𝖎𝖈𝖆𝖘 𝖓𝖔 𝕲𝖎𝖙𝕳𝖚𝖇
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeTomelin/GuilhermeTomelin/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeTomelin/GuilhermeTomelin/output/github-contribution-grid-snake.svg">
   <img alt="github snake animation" src="https://raw.githubusercontent.com/GuilhermeTomelin/GuilhermeTomelin/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br/><br/>
 
-<!-- Ícones Animados de Tecnologias -->
-  <img src="https://skillicons.dev/icons?i=python,mysql,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,docker,git,github,vscode" />
 
-  <br/>
+<br/><br/>
 
----
+<sub>Desenvolvido por Guilherme Tomelin Warmling</sub>
 
-<div align="center">
-  <sub>Desenvolvido por Guilherme Tomelin Warmling 🚀</sub>
 </div>
