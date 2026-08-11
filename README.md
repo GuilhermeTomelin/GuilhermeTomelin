@@ -43,6 +43,16 @@ Modelagem e desenvolvimento de banco de dados para gerenciar o ciclo de vida com
 - **Financeiro:** Gestão de orçamentos departamentais e despesas de viagem.
 - **Métrica de Negócio:** Cálculo de **Retorno sobre o Investimento (ROI)** a partir da avaliação de eficácia reportada pelos gestores.
 
+## 🛠️ 𝕿𝖊𝖈𝖓𝖔𝖑𝖔𝖌𝖎𝖆𝖘 & 𝕱𝖊𝖗𝖗𝖆𝖒𝖊𝖓𝖙𝖆𝖘
+---
+
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=3776AB)
+![MySQL](https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
 ---
 
 ## 📊 Estatísticas no GitHub
